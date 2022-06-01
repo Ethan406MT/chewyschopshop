@@ -1,0 +1,50 @@
+.ccs__header {   
+    background-color: #000;
+    background-image: url('../../assets/shopfront.png');
+    background-origin: padding-box;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 20rem;
+    margin-bottom: 10px;
+    
+}
+
+
+.css__header-name-container {
+    
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgba(0,0,0 0.5);
+    width: 500rem;
+    height: 500rem;
+    padding: 1rem;
+    margin-top: 1rem;
+    font-weight: 500;
+    
+    
+}
+.h1 {
+    margin-left: auto;
+    word-break: break-all; 
+    word-wrap: break-word; 
+    width: 50rem;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -12rem;
+
+  }
+
+
+  @media all and (max-width: 450px) {
+    .logo {
+        
+        margin-top: -12rem;
+        margin-left: auto;
+        margin-right: auto;
+    
+      }
+
+  }

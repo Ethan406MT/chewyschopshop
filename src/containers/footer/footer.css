@@ -1,0 +1,8 @@
+.ccs__footer{
+    flex-direction: row;
+    flex: 1;
+    align-content: space-around;
+    background-color: black;
+
+}
+

@@ -1,0 +1,124 @@
+
+.about {
+  width: 100%;
+  padding: 78px 0px;
+  background-color: rgb(18, 17, 17);
+  display: flex;
+  align-items: center;
+  padding: 5rem;
+  justify-content: space-around;
+}
+.ccs__about{
+  width: 1000px;
+  max-width: 95%;
+  display: flex;
+  column-gap: 2rem;
+  align-items: center;
+}
+
+.usphoto {
+  height: 35rem;
+  width: 35rem;
+  row-gap: 1rem;
+  border-radius: 30px;
+  display: flex;
+}
+.box {
+  margin-right: auto;
+  word-break: break-all; 
+  word-wrap: break-word;
+  
+  flex-direction: column,
+   
+}
+p {
+    font-size: large;
+    font-weight: 100;
+ 
+}
+
+@media all and (max-width: 450px){
+  .about{
+    width: 100%;
+  padding: 78px 0px;
+  background-color: rgb(18, 17, 17);
+  display: flex;
+  align-items: center;
+  padding: 2rem;
+  flex-direction: column;
+  
+  }
+}
+@media all and (min-width: 450px) and (max-width: 1000px){
+  .about{
+    width: 100%;
+  padding: 78px 0px;
+  background-color: rgb(18, 17, 17);
+  display: flex;
+  align-items: center;
+  padding: 5rem;
+  flex-direction: column;
+  
+  
+  }
+}
+
+@media all and (max-width: 450px){
+  .ccs__about{
+    flex-direction: column;
+  
+  column-gap: 2rem;
+  align-items: center;
+  }
+}
+@media all and (min-width: 450px) and (max-width: 1000px){
+  .ccs__about{
+    flex-direction: column;
+  
+    column-gap: 2rem;
+    align-items: center;
+  }
+}
+
+@media all and (max-width: 450px){
+  .box {
+    margin-right: auto;
+    word-break: break-all; 
+    word-wrap: break-word;
+    flex-direction: column;
+    
+    
+     
+  }
+}
+@media all and (max-width: 450px){
+  .usphoto{
+   
+  height: 20rem;
+  width: 20rem;
+  margin-right: 0.25rem;
+  border-radius: 30px;
+      
+  }
+}
+
+@media all and (min-width: 450px) and (max-width: 1000px){
+  .usphoto{
+   
+  height: 35rem;
+  width: 35rem;
+  margin-right: 0.5rem;
+  border-radius: 30px;
+      
+  }
+}
+@media all and (min-width: 450px) and (max-width: 1000px){
+.box {
+  margin-right: auto;
+  word-break: break-all; 
+  word-wrap: break-word;
+  
+  flex-direction: column,
+   
+}
+}
