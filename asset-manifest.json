@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chewyschopshop/static/css/main.84f2f427.css",
+    "main.js": "/chewyschopshop/static/js/main.42f434f9.js",
+    "static/js/787.1ff039a0.chunk.js": "/chewyschopshop/static/js/787.1ff039a0.chunk.js",
+    "static/media/shopfront.png": "/chewyschopshop/static/media/shopfront.2fb0c99189451a13d557.png",
+    "static/media/Screenshot_12.png": "/chewyschopshop/static/media/Screenshot_12.9f35755258e88059f77e.png",
+    "static/media/g4.png": "/chewyschopshop/static/media/g4.ed9961f566f1e5103a92.png",
+    "static/media/Screenshot_18.png": "/chewyschopshop/static/media/Screenshot_18.db0f10154a1859f80e4a.png",
+    "static/media/g1.jpg": "/chewyschopshop/static/media/g1.29c5d3e982e5b89c80d2.jpg",
+    "static/media/g6.webp": "/chewyschopshop/static/media/g6.8843b0466ecacd7678ac.webp",
+    "static/media/Screenshot_4.png": "/chewyschopshop/static/media/Screenshot_4.3a1b791a4f1dd02bf7ba.png",
+    "static/media/g3.webp": "/chewyschopshop/static/media/g3.ebbe780ac03c538dae13.webp",
+    "static/media/images.jpg": "/chewyschopshop/static/media/images.305bbf81b0bd6fe271be.jpg",
+    "static/media/g5.webp": "/chewyschopshop/static/media/g5.258b288730a6d4a70661.webp",
+    "index.html": "/chewyschopshop/index.html",
+    "main.84f2f427.css.map": "/chewyschopshop/static/css/main.84f2f427.css.map",
+    "main.42f434f9.js.map": "/chewyschopshop/static/js/main.42f434f9.js.map",
+    "787.1ff039a0.chunk.js.map": "/chewyschopshop/static/js/787.1ff039a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84f2f427.css",
+    "static/js/main.42f434f9.js"
+  ]
+}
