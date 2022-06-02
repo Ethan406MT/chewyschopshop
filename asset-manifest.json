@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Ethan406MT/chewyschopshop.github.io/static/css/main.7c27a098.css",
-    "main.js": "/Ethan406MT/chewyschopshop.github.io/static/js/main.6cc4504a.js",
-    "static/js/787.1ff039a0.chunk.js": "/Ethan406MT/chewyschopshop.github.io/static/js/787.1ff039a0.chunk.js",
-    "static/media/shopfront.png": "/Ethan406MT/chewyschopshop.github.io/static/media/shopfront.2fb0c99189451a13d557.png",
-    "static/media/Screenshot_12.png": "/Ethan406MT/chewyschopshop.github.io/static/media/Screenshot_12.9f35755258e88059f77e.png",
-    "static/media/g4.png": "/Ethan406MT/chewyschopshop.github.io/static/media/g4.ed9961f566f1e5103a92.png",
-    "static/media/Screenshot_18.png": "/Ethan406MT/chewyschopshop.github.io/static/media/Screenshot_18.db0f10154a1859f80e4a.png",
-    "static/media/g1.jpg": "/Ethan406MT/chewyschopshop.github.io/static/media/g1.29c5d3e982e5b89c80d2.jpg",
-    "static/media/g6.webp": "/Ethan406MT/chewyschopshop.github.io/static/media/g6.8843b0466ecacd7678ac.webp",
-    "static/media/Screenshot_4.png": "/Ethan406MT/chewyschopshop.github.io/static/media/Screenshot_4.3a1b791a4f1dd02bf7ba.png",
-    "static/media/g3.webp": "/Ethan406MT/chewyschopshop.github.io/static/media/g3.ebbe780ac03c538dae13.webp",
-    "static/media/images.jpg": "/Ethan406MT/chewyschopshop.github.io/static/media/images.305bbf81b0bd6fe271be.jpg",
-    "static/media/g5.webp": "/Ethan406MT/chewyschopshop.github.io/static/media/g5.258b288730a6d4a70661.webp",
-    "index.html": "/Ethan406MT/chewyschopshop.github.io/index.html",
-    "main.7c27a098.css.map": "/Ethan406MT/chewyschopshop.github.io/static/css/main.7c27a098.css.map",
-    "main.6cc4504a.js.map": "/Ethan406MT/chewyschopshop.github.io/static/js/main.6cc4504a.js.map",
-    "787.1ff039a0.chunk.js.map": "/Ethan406MT/chewyschopshop.github.io/static/js/787.1ff039a0.chunk.js.map"
+    "main.css": "/chewyschopshop.github.io/,/static/css/main.15111bb1.css",
+    "main.js": "/chewyschopshop.github.io/,/static/js/main.d91b2d61.js",
+    "static/js/787.1ff039a0.chunk.js": "/chewyschopshop.github.io/,/static/js/787.1ff039a0.chunk.js",
+    "static/media/shopfront.png": "/chewyschopshop.github.io/,/static/media/shopfront.2fb0c99189451a13d557.png",
+    "static/media/Screenshot_12.png": "/chewyschopshop.github.io/,/static/media/Screenshot_12.9f35755258e88059f77e.png",
+    "static/media/g4.png": "/chewyschopshop.github.io/,/static/media/g4.ed9961f566f1e5103a92.png",
+    "static/media/Screenshot_18.png": "/chewyschopshop.github.io/,/static/media/Screenshot_18.db0f10154a1859f80e4a.png",
+    "static/media/g1.jpg": "/chewyschopshop.github.io/,/static/media/g1.29c5d3e982e5b89c80d2.jpg",
+    "static/media/g6.webp": "/chewyschopshop.github.io/,/static/media/g6.8843b0466ecacd7678ac.webp",
+    "static/media/Screenshot_4.png": "/chewyschopshop.github.io/,/static/media/Screenshot_4.3a1b791a4f1dd02bf7ba.png",
+    "static/media/g3.webp": "/chewyschopshop.github.io/,/static/media/g3.ebbe780ac03c538dae13.webp",
+    "static/media/images.jpg": "/chewyschopshop.github.io/,/static/media/images.305bbf81b0bd6fe271be.jpg",
+    "static/media/g5.webp": "/chewyschopshop.github.io/,/static/media/g5.258b288730a6d4a70661.webp",
+    "index.html": "/chewyschopshop.github.io/,/index.html",
+    "main.15111bb1.css.map": "/chewyschopshop.github.io/,/static/css/main.15111bb1.css.map",
+    "main.d91b2d61.js.map": "/chewyschopshop.github.io/,/static/js/main.d91b2d61.js.map",
+    "787.1ff039a0.chunk.js.map": "/chewyschopshop.github.io/,/static/js/787.1ff039a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c27a098.css",
-    "static/js/main.6cc4504a.js"
+    "static/css/main.15111bb1.css",
+    "static/js/main.d91b2d61.js"
   ]
 }
