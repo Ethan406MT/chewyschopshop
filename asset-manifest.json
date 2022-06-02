@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chewyschopshop/static/css/main.84f2f427.css",
-    "main.js": "/chewyschopshop/static/js/main.42f434f9.js",
+    "main.css": "/chewyschopshop/static/css/main.8f6c61c2.css",
+    "main.js": "/chewyschopshop/static/js/main.97a7f5c4.js",
     "static/js/787.1ff039a0.chunk.js": "/chewyschopshop/static/js/787.1ff039a0.chunk.js",
     "static/media/shopfront.png": "/chewyschopshop/static/media/shopfront.2fb0c99189451a13d557.png",
     "static/media/Screenshot_12.png": "/chewyschopshop/static/media/Screenshot_12.9f35755258e88059f77e.png",
@@ -14,12 +14,12 @@
     "static/media/images.jpg": "/chewyschopshop/static/media/images.305bbf81b0bd6fe271be.jpg",
     "static/media/g5.webp": "/chewyschopshop/static/media/g5.258b288730a6d4a70661.webp",
     "index.html": "/chewyschopshop/index.html",
-    "main.84f2f427.css.map": "/chewyschopshop/static/css/main.84f2f427.css.map",
-    "main.42f434f9.js.map": "/chewyschopshop/static/js/main.42f434f9.js.map",
+    "main.8f6c61c2.css.map": "/chewyschopshop/static/css/main.8f6c61c2.css.map",
+    "main.97a7f5c4.js.map": "/chewyschopshop/static/js/main.97a7f5c4.js.map",
     "787.1ff039a0.chunk.js.map": "/chewyschopshop/static/js/787.1ff039a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84f2f427.css",
-    "static/js/main.42f434f9.js"
+    "static/css/main.8f6c61c2.css",
+    "static/js/main.97a7f5c4.js"
   ]
 }
