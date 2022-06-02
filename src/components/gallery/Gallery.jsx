@@ -48,8 +48,8 @@ const Gallery = () => {
     
     return (
         
-
-<div class="gal">
+        <div className="background1">
+            <div class="gal">
     
      
     {data.map((item,index)=>{
@@ -62,7 +62,7 @@ const Gallery = () => {
     })}
         
     </div>
-  
+    </div>
 
     )
 

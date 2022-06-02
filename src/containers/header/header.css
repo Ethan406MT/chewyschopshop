@@ -5,7 +5,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     height: 20rem;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     
 }
 
@@ -14,11 +14,10 @@
     
     font-family: 'Courier New', Courier, monospace;
     background-color: rgba(0,0,0 0.5);
-    width: 500rem;
-    height: 500rem;
+   
     padding: 1rem;
     margin-top: 1rem;
-    font-weight: 500;
+    font-weight: 900;
     
     
 }
@@ -26,7 +25,7 @@
     margin-left: auto;
     word-break: break-all; 
     word-wrap: break-word; 
-    width: 50rem;
+    
 }
 
 .logo {

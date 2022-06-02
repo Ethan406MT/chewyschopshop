@@ -49,6 +49,7 @@ p {
   
   }
 }
+
 @media all and (min-width: 450px) and (max-width: 1000px){
   .about{
     width: 100%;
@@ -105,8 +106,8 @@ p {
 @media all and (min-width: 450px) and (max-width: 1000px){
   .usphoto{
    
-  height: 35rem;
-  width: 35rem;
+  height: 30rem;
+  width: 30rem;
   margin-right: 0.5rem;
   border-radius: 30px;
       

@@ -1,8 +1,33 @@
 .ccs__footer{
-    flex-direction: row;
+    flex-direction: column;
     flex: 1;
-    align-content: space-around;
     background-color: black;
+    
+    justify-content: end;
+    text-align: end;
+    display: flex;
+    height: 5rem;
 
 }
 
+
+@media all and (max-width: 815px){
+    .ccs__footer{
+   
+        flex-direction: column;
+        flex: 1;
+        background-color: black;
+        
+        justify-content: end;
+        text-align: end;
+        display: flex;
+        height: auto;
+        padding-top: 3rem;
+    }
+  }
+  @media all and (max-width: 815px){
+    .h1{
+   
+        font-size: x-large;
+    }
+  }

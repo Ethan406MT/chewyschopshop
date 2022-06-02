@@ -12,7 +12,7 @@
 }
 
 .ccs__CU-container{
-    width: 1000px;
+   
     max-width: 95%;
     display: flex;
     max-width: 95%;
@@ -47,31 +47,43 @@
 @media all and (max-width: 450px){
 
     .maphoto {
-        height: 24rem;
-        width: 24rem;
+        height: 23rem;
+        width: 23rem;
         flex-direction: column;
     }
   
 }
-@media all and (max-width: 450px){
+@media all and (max-width: 540px){
 
     .contactusbox {
         
         word-break: break-all; 
         word-wrap: break-word; 
-        width: 50rem;
+        display: flex;
         flex-direction: column;
     }
     
 }
 
-@media all and (max-width: 450px){
+@media all and (max-width: 540px){
 
    .ccs__CU-container{
     margin-left: 5%;
     flex-direction: column;
+    display: flex;
    
 
 }
 }
 
+@media all and (max-width: 540px){
+
+    .ccs__CU {
+        align-self: flex-start;
+        display: flex;
+        align-content: center;
+        contain: content;
+    
+    }
+    
+}

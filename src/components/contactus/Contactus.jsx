@@ -10,7 +10,7 @@ const Contactus = () => {
         <section className="ccs__CU">
                 <div className="ccs__CU-container">
                 <img className="maphoto" src={Mapphoto} alt = {"mphoto"}   />
-                <h1>Located in the Bar triangle by Brother Bikes and Drew's Tattoo Shop</h1>
+                <h1>Located in the Bar triangle by Brothel Bikes and Drew's Tattoo Shop</h1>
                 <div className="contactusbox">  
                 <h2>(123)-456-7890</h2>
                 <h3>email@chewyschopshop.com</h3>
