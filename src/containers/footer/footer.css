@@ -25,9 +25,3 @@
         padding-top: 3rem;
     }
   }
-  @media all and (max-width: 815px){
-    .h1{
-   
-        font-size: x-large;
-    }
-  }
